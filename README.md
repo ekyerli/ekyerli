@@ -22,7 +22,7 @@ he wants. Problem solver, logical, patient, tolerant and good communicator.
 </p>
 </p>
 
-<img align="right" src="https://media.giphy.com/media/9gISqB3tncMmY/giphy.gif" width="480" />
+<img align="right" src="https://thumbs.gfycat.com/FatAcclaimedFalcon-mobile.mp4" width="480" />
 <h2>⚡️ About Me</h2>
 <ul>
     <li>🔭 I am currently working in the RPA field.</li>
