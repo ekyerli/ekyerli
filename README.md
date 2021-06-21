@@ -26,7 +26,7 @@ he wants. Problem solver, logical, patient, tolerant and good communicator.
 <h2>⚡️ About Me</h2>
 <ul>
     <li>🔭 I am currently working in the RPA field.</li>
-    <li>👨‍💻 I upload my work to github whenever I can. <a href="https://github.com/ekyerli">Github</a></li>
+    <li>👨‍💻 I upload my work to github whenever I can.</li>
     <li>💬 I spend time writing code and creating new things, I spend a lot of time outside of office hours in data science and artificial intelligence.</li>
     <li>🔎 I am a very curious and inquisitive person.</li>
     <li>📙 You can find my resume on linkedin. (I update every 6 months).</li>
