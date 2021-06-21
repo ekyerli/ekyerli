@@ -23,35 +23,19 @@ he wants. Problem solver, logical, patient, tolerant and good communicator.
 </p>
 
 <img align="right" src="https://media.giphy.com/media/9gISqB3tncMmY/giphy.gif" width="480" />
-<h2>⚡️ Alguns fatos rápidos</h2>
+<h2>⚡️ About Me</h2>
 <ul>
-    <li>🔭 Atualmente estou trabalhando na aréa de Logística.</li>
-    <li>👨‍💻 A maioria dos meus projetos está disponível no <a href="https://github.com/mazarafa">Github</a></li>
-    <li>💬 Passo o tempo codificando e criando coisas novas, especialmente quando elas podem ajudar a mim ou a outro ser humano de alguma forma.</li>
-    <li> 🔎 Pesquiso sobre Computação Musical e o seu processamento de audio.</li>
-    <li>📙Confira meu <a href="https://mazarafa.github.io/">currículo</a>.</li>
-    <li>🎉 Curiosidade: Sou DJ nas horas vagas!</li>
+    <li>🔭 I am currently working in the RPA field.</li>
+    <li>👨‍💻 I upload my work to github whenever I can. <a href="https://github.com/ekyerli">Github</a></li>
+    <li>💬 I spend time writing code and creating new things, I spend a lot of time outside of office hours in data science and artificial intelligence.</li>
+    <li>🔎 I am a very curious and inquisitive person.</li>
+    <li>📙 You can find my resume on linkedin. (I update every 6 months).</li>
+    <li>🎉 I try to participate in social responsibility projects whenever I get the chance (Trainer at the Okula Destek Derneği)</li>
 </ul>
-<h2>🚀 Algumas ferramentas que uso</h2>
-<p align="left">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular-js" width="25" height="25" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="25" height="25" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="25" height="25" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="25" height="25" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="25" height="25" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="25" height="25" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="25" height="25" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="25" height="25" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="25" height="25" />
-    
-</p>
-
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ekyerli&show_icons=true&hide_border=true" alt="Today's Github Stats">
 
 -----
 Credits: [ekyerli](https://github.com/ekyerli)
 
-Last Edited on: 27/12/2020
+Last Edited on: 6/21/2021
