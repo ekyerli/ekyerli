@@ -20,10 +20,8 @@ he wants. Problem solver, logical, patient, tolerant and good communicator.
   <a href= "https://twitter.com/emirkaanyerli"><img src="https://img.icons8.com/dusk/48/000000/twitter.png"/></a>
   <a href= "https://www.youtube.com/channel/UCttbaIQvOJz9GtaHs-MZDxA"><img src="https://img.icons8.com/dusk/48/000000/youtube--v2.png"/></a>
 </p>
-</p>
-<br>
 <img align="right" src="https://cdn.eksisozluk.com/2021/5/23/5/5jqa0v3b.jpg" width="480" />
-</br>
+</p>
 <h2>⚡️ About Me</h2>
 <ul>
     <li>🔭 I am currently working in the RPA field.</li>
