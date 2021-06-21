@@ -21,8 +21,7 @@ he wants. Problem solver, logical, patient, tolerant and good communicator.
   <a href= "https://www.youtube.com/channel/UCttbaIQvOJz9GtaHs-MZDxA"><img src="https://img.icons8.com/dusk/48/000000/youtube--v2.png"/></a>
 </p>
 </p>
-<img align="right" src="hthttps://i.hizliresim.com/bvyh64m.png" width="480" />
-
+<img align="right" src="https://i.hizliresim.com/bvyh64m.png" width="480" />
 <h2>⚡️ About Me</h2>
 <ul>
     <li>🔭 I am currently working in the RPA field.</li>
