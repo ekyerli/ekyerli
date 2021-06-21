@@ -17,7 +17,7 @@ he wants. Problem solver, logical, patient, tolerant and good communicator.
     <a href="https://medium.com/@emirkaanyerli" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-@emirkaanyerli-14c767?style=flat-square&amp;labelColor=14c767&amp;logo=Medium&amp;link=https://medium.com/emirkaanyerli" alt="Medium Badge"></a> 
     <a href="https://www.linkedin.com/in/ekyerli/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-@ekyerli-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/ekyerli/" alt="LinkedIn Badge"></a> 
     <a href="https://instagram.com/emirkaanyerli" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-@emirkaanyerli-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/mazarafa/" alt="Instagram Badge"></a>
-    <a href="mailto:contact@emirkaan.yerli@gmail.com?subject=[GitHub]%20🔥%20Prise%20de%20contact&body=Hi%20Emir%2C%0A%0AJe%20viens%20vers%20toi%20aujourd%27hui%20apr%C3%A8s%20avoir%20vu%20ton%20profil%20GitHub%20pour%20..."><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
+    <a href="mailto:contact@emirkaan.yerli@gmail.com?subject=[GitHub]%20🔥%20Prise%20de%20contact&body=Hi%20Emir%20C%0A%0AJe%20viens%20vers%20toi%20aujourd%27hui%20apr%C3%A8s%20avoir%20vu%20ton%20profil%20GitHub%20pour%20..."><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
 </p>
 
 <img align="right" src="https://media.giphy.com/media/9gISqB3tncMmY/giphy.gif" width="480" />
