@@ -16,8 +16,8 @@ he wants. Problem solver, logical, patient, tolerant and good communicator.
 <p>
     <a href="https://medium.com/@emirkaanyerli" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-@emirkaanyerli-14c767?style=flat-square&amp;labelColor=14c767&amp;logo=Medium&amp;link=https://medium.com/emirkaanyerli" alt="Medium Badge"></a> 
     <a href="https://www.linkedin.com/in/ekyerli/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-@ekyerli-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/ekyerli/" alt="LinkedIn Badge"></a> 
-    <a href="https://instagram.com/emirkaanyerli" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-@emirkaanyerli-purple?<a style=flat&logo=instagram&logoColor=white&link=https://instagram.com/mazarafa/" alt="Instagram Badge"> 
-    <a [![Gmail Badge](https://img.shields.io/badge/-mail@jayraj.co.in-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mail@jayraj.co.in)](mailto:mail@jayraj.co.in)/a>
+    <a href="https://instagram.com/emirkaanyerli" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-@emirkaanyerli-purple?<a style=flat&logo=instagram&logoColor=white&link=https://instagram.com/mazarafa/"  alt="Instagram Badge"></a>
+    <a [![Gmail Badge](https://img.shields.io/badge/-mail@jayraj.co.in-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mail@jayraj.co.in)](mailto:mail@jayraj.co.in)></a>
 
 </p>
 
