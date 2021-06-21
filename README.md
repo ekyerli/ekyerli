@@ -17,7 +17,7 @@ he wants. Problem solver, logical, patient, tolerant and good communicator.
     <a href="https://medium.com/@emirkaanyerli" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-@emirkaanyerli-14c767?style=flat-square&amp;labelColor=14c767&amp;logo=Medium&amp;link=https://medium.com/emirkaanyerli" alt="Medium Badge"></a> 
     <a href="https://www.linkedin.com/in/ekyerli/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-@ekyerli-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/ekyerli/" alt="LinkedIn Badge"></a> 
     <a href="https://instagram.com/emirkaanyerli" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-@emirkaanyerli-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/mazarafa/" alt="Instagram Badge"></a>
-    <!-- <a href="rafinha.dev@outlook.com"><img scr="https://img.shields.io/badge/-rafinha.dev-c14438?style=flat&logo=Outlook&logoColor=white&link=mailto:rafinha.dev@outlook.com" alt="Outlook Badge"></a> -->
+    <<a href="rafinha.dev@outlook.com"><img scr="https://img.shields.io/badge/-rafinha.dev-c14438?style=flat&logo=Outlook&logoColor=white&link=mailto:rafinha.dev@outlook.com" alt="Gmail Badge"></a> -->
 </p>
 
 <img align="right" src="https://media.giphy.com/media/9gISqB3tncMmY/giphy.gif" width="480" />
