@@ -47,7 +47,7 @@ he wants. Problem solver, logical, patient, tolerant and good communicator.
 </p>
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=mazarafa&show_icons=true&hide_border=true" alt="Tadeu's Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ekyerli&show_icons=true&hide_border=true" alt="Today's Github Stats">
 
 -----
 Credits: [ekyerli](https://github.com/ekyerli)
