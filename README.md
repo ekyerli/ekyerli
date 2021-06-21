@@ -17,7 +17,14 @@ he wants. Problem solver, logical, patient, tolerant and good communicator.
     <a href="https://medium.com/@emirkaanyerli" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-@emirkaanyerli-14c767?style=flat-square&amp;labelColor=14c767&amp;logo=Medium&amp;link=https://medium.com/emirkaanyerli" alt="Medium Badge"></a> 
     <a href="https://www.linkedin.com/in/ekyerli/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-@ekyerli-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/ekyerli/" alt="LinkedIn Badge"></a> 
     <a href="https://instagram.com/emirkaanyerli" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-@emirkaanyerli-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/emirkaanyerli/" alt="Instagram Badge"></a>
-
+<h3 align="center">Connect with me</h3>
+<p align="center">
+  <a href= "https://www.linkedin.com/in/bayrem-gharssellaoui/"><img src="https://img.icons8.com/dusk/48/000000/linkedin.png"/></a>
+  <a href= "https://medium.com/@garssallaoui.bayrem"><img src="https://img.icons8.com/dusk/48/000000/medium-new.png"/></a>
+  <a href= "https://twitter.com/kaizoku_ouh"><img src="https://img.icons8.com/dusk/48/000000/twitter.png"/></a>
+  <a href= "https://signal.org"><img src="https://img.icons8.com/color/48/000000/signal-app.png"/></a>
+  <a href= "https://www.youtube.com/channel/UCj_aGuryykHGnmFXHa5kzLQ"><img src="https://img.icons8.com/dusk/48/000000/youtube--v2.png"/></a>
+</p>
 </p>
 
 <img align="right" src="https://media.giphy.com/media/9gISqB3tncMmY/giphy.gif" width="480" />
