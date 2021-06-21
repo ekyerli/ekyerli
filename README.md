@@ -50,6 +50,6 @@ he wants. Problem solver, logical, patient, tolerant and good communicator.
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=mazarafa&show_icons=true&hide_border=true" alt="Tadeu's Github Stats">
 
 -----
-Credits: [mazarafa](https://github.com/mazarafa)
+Credits: [ekyerli](https://github.com/ekyerli)
 
 Last Edited on: 27/12/2020
