@@ -16,8 +16,8 @@ he wants. Problem solver, logical, patient, tolerant and good communicator.
 <p>
     <a href="https://medium.com/@emirkaanyerli" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-@emirkaanyerli-14c767?style=flat-square&amp;labelColor=14c767&amp;logo=Medium&amp;link=https://medium.com/emirkaanyerli" alt="Medium Badge"></a> 
     <a href="https://www.linkedin.com/in/ekyerli/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-@ekyerli-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/ekyerli/" alt="LinkedIn Badge"></a> 
-    <a href="https://instagram.com/emirkaanyerli" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-@emirkaanyerli-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/mazarafa/" alt="Instagram Badge"></a>
-    <a [!    https://img.shields.io/badge/-martin.deboute%40gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:martin.deboute@gmail.com(mailto:martin.deboute@gmail.com)</a>
+    <a href="https://instagram.com/emirkaanyerli" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-@emirkaanyerli-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/mazarafa/" alt="Instagram Badge"></a>z
+[![Kaggle Badge](https://img.shields.io/badge/-Kaggle-blue?style=flat-square&logo=Kaggle&logoColor=blue&labelColor=lightgrey&color=black&link=https://kaggle.com/kabure/notebooks)](https://kaggle.com/kabure/notebooks)
 </p>
 
 <img align="right" src="https://media.giphy.com/media/9gISqB3tncMmY/giphy.gif" width="480" />
