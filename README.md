@@ -1,10 +1,10 @@
 
 
 <h2>Hey 👋, I'm <a href="https://github.com/ekyerli/">Emir</a></h2>
-<h2>⚡️ RPA Developer | Data Scientist | ML Engineer</h2>
+<h2>⚡️ RPA | Data Scientist | ML Engineer</h2>
 <p>RPA Developer & Data Science & BS.-level educated, been developing various projects on electronics for 4 years and
 is passionate about artificial intelligence and robotic processes. Continuing to work in the field of
-artificial intelligence for the last two years, working with Uipath Studio on robotic process automation.
+artificial intelligence for the last two years, working with Robusta and Uipath Studio on robotic process automation.
 Will be able to adapt to flexible working hours in a busy schedule. Without travel restrictions having a
 progressive and innovative with developing solutions to complex problems to meet high business
 expectations.
