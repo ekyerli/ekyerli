@@ -36,4 +36,4 @@ he wants. Problem solver, logical, patient, tolerant and good communicator.
 <!--Credits: [ekyerli](https://github.com/ekyerli)-->
 <img align="center" src="https://komarev.com/ghpvc/?username=ekyerli" alt="Today's Github Stats"/></a>
 
-Last Edited on: 6/21/2021
+Last Edited on: 7/14/2021
