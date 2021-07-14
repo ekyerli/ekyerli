@@ -19,6 +19,8 @@ he wants. Problem solver, logical, patient, tolerant and good communicator.
   <a href= "https://emirkaanyerli.medium.com/"><img src="https://img.icons8.com/dusk/48/000000/medium-new.png"/></a>
   <a href= "https://twitter.com/emirkaanyerli"><img src="https://img.icons8.com/dusk/48/000000/twitter.png"/></a>
   <a href= "https://www.youtube.com/channel/UCttbaIQvOJz9GtaHs-MZDxA"><img src="https://img.icons8.com/dusk/48/000000/youtube--v2.png"/></a>
+  <a img align="center" src="https://komarev.com/ghpvc/?username=ekyerli" alt="Today's Github Stats"/></a>
+
 </p>
 </p>
 <h2>⚡️ About Me</h2>
@@ -30,8 +32,6 @@ he wants. Problem solver, logical, patient, tolerant and good communicator.
     <li>📙 You can find my resume on linkedin. (I update every 6 months).</li>
     <li>🎉 I try to participate in social responsibility projects whenever I get the chance (Trainer at the Okula Destek Derneği)</li>
 </ul>
-
-<img align="center" src="https://komarev.com/ghpvc/?username=ekyerli" alt="Today's Github Stats">
 
 <!--<img align="center" src="https://github-readme-stats.vercel.app/api?username=ekyerli&show_icons=true&hide_border=true" alt="Today's Github Stats">
 <!--Credits: [ekyerli](https://github.com/ekyerli)-->
