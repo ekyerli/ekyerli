@@ -20,7 +20,6 @@ he wants. Problem solver, logical, patient, tolerant and good communicator.
   <a href= "https://twitter.com/emirkaanyerli"><img src="https://img.icons8.com/dusk/48/000000/twitter.png"/></a>
   <a href= "https://www.youtube.com/channel/UCttbaIQvOJz9GtaHs-MZDxA"><img src="https://img.icons8.com/dusk/48/000000/youtube--v2.png"/></a>
 </p>
-  <img align="center" src="https://komarev.com/ghpvc/?username=ekyerli" alt="Today's Github Stats"/></a>
 
 </p>
 <h2>⚡️ About Me</h2>
@@ -35,5 +34,6 @@ he wants. Problem solver, logical, patient, tolerant and good communicator.
 
 <!--<img align="center" src="https://github-readme-stats.vercel.app/api?username=ekyerli&show_icons=true&hide_border=true" alt="Today's Github Stats">
 <!--Credits: [ekyerli](https://github.com/ekyerli)-->
+<img align="center" src="https://komarev.com/ghpvc/?username=ekyerli" alt="Today's Github Stats"/></a>
 
 Last Edited on: 6/21/2021
