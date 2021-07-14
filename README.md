@@ -30,7 +30,8 @@ he wants. Problem solver, logical, patient, tolerant and good communicator.
     <li>📙 You can find my resume on linkedin. (I update every 6 months).</li>
     <li>🎉 I try to participate in social responsibility projects whenever I get the chance (Trainer at the Okula Destek Derneği)</li>
 </ul>
-[GitHub Views](https://komarev.com/ghpvc/?username=ekyerli
+
+<img align="center" src="https://komarev.com/ghpvc/?username=ekyerli" alt="Today's Github Stats">
 
 <!--<img align="center" src="https://github-readme-stats.vercel.app/api?username=ekyerli&show_icons=true&hide_border=true" alt="Today's Github Stats">
 <!--Credits: [ekyerli](https://github.com/ekyerli)-->
