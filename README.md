@@ -17,7 +17,6 @@ he wants. Problem solver, logical, patient, tolerant and good communicator.
 <p align="center">
   <a href= "https://www.linkedin.com/in/ekyerli/"><img src="https://img.icons8.com/dusk/48/000000/linkedin.png"/></a>
   <a href= "https://emirkaanyerli.medium.com/"><img src="https://img.icons8.com/dusk/48/000000/medium-new.png"/></a>
-  <a href= "https://twitter.com/emirkaanyerli"><img src="https://img.icons8.com/dusk/48/000000/twitter.png"/></a>
   <a href= "https://www.youtube.com/channel/UCttbaIQvOJz9GtaHs-MZDxA"><img src="https://img.icons8.com/dusk/48/000000/youtube--v2.png"/></a>
 </p>
 
